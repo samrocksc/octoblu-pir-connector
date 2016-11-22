@@ -1,4 +1,4 @@
-octoblu-pir-connector
+octoblu-pir-connector(deprecated)
 =====================
 
 Connects octoblu to my pir connectors using johnny-five, 2 pir sensors, and a arduino nano loaded with standard firmata.
